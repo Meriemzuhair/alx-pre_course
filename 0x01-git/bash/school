@@ -1,12 +1,2 @@
-
-clear
-
-
-echo "School"
-
-
-
-
-
-
-root@d019a611fa7e:/alx-pre_course/0x01-git/bash#
+#!/bin/bash
+echo "The school is open!"
